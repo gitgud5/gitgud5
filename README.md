@@ -1,8 +1,24 @@
-### Hi there 👋
+### Hi there 👋, My name is Bro
+#### I am an aspiring data Scientist and gamer
+![I am an aspiring data Scientist and gamer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Muhammad Umar, and I am an aspiring data scientist also learning and working with React and React Native.
-[![Gitgud5 GitHub stats](https://github-readme-stats.vercel.app/api?username=gitgud5)](https://github.com/anuraghazra/github-readme-stats)
+I love gaming and working on fun projects. I also love to learn more and understand what I am doing and how to do it better. Fun Stuff.
 
+Skills: React, React Native, Unity, Python
+
+- 🌱 I’m currently learning Deep Learning 
+- 💬 Ask me about food and games 
+- 😄 Pronouns: HE,HIM 
+- ⚡ Fun fact: I love Pizza (who doesn't right) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gitgud5)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gitgud5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gitgud5)  
+
+![Profile views](https://gpvc.arturio.dev/gitgud5)
 
 
 <!--

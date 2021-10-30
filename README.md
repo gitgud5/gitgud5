@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Bro
 #### I am an aspiring data Scientist and gamer
-![I am an aspiring data Scientist and gamer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an aspiring data Scientist and gamer](https://github.com/gitgud5/gitgud5/blob/master/428855.jpg)
 
 I love gaming and working on fun projects. I also love to learn more and understand what I am doing and how to do it better. Fun Stuff.
 

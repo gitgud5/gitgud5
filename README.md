@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Muhammad Umar, and I am an aspiring data scientist also learning and working with React and React Native.
+[![Gitgud5 GitHub stats](https://github-readme-stats.vercel.app/api?username=gitgud5)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **gitgud5/gitgud5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

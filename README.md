@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Bro
+### Hi there 👋, I am Bro
 #### I am an aspiring data Scientist and gamer
 ![I am an aspiring data Scientist and gamer](https://github.com/gitgud5/gitgud5/blob/master/428855.jpg)
 

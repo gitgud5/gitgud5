@@ -39,7 +39,7 @@ Skills: React, React Native, Unity, Python
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 My Stats for [tryhackme website](tryhackme.com)
-<script src="https://tryhackme.com/badge/2049744"></script>
+[<img src="https://tryhackme-badges.s3.amazonaws.com/hitguy009.png" alt="TryHackMe">](https://tryhackme.com/p/hitguy009)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gitgud5&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -4,7 +4,7 @@
 
 I love gaming and working on fun projects. I also love to learn more and understand what I am doing and how to do it better. Fun Stuff.
 
-Skills: React, React Native, Unity, Python
+Skills: React, ExpressJS, MongoDB, Postgress, SQL
 
 - 🌱 I’m currently learning Deep Learning 
 - 💬 Ask me about food and games 
@@ -39,7 +39,6 @@ Skills: React, React Native, Unity, Python
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 My Stats for [tryhackme website](tryhackme.com)
-[<img src="https://tryhackme-badges.s3.amazonaws.com/hitguy009.png" alt="TryHackMe">](https://tryhackme.com/p/hitguy009)
 
 
 ---

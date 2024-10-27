@@ -39,7 +39,7 @@ Skills: React, ExpressJS, MongoDB, Postgress, SQL
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 My Stats for [tryhackme website](tryhackme.com)
-[<img src="https://tryhackme-badges.s3.amazonaws.com/hitguy009.png" alt="My Try hackme badge" />](https://tryhackme.com/p/hitguy009)
+[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2049744" style='border:none;'></iframe>](https://tryhackme.com/p/hitguy009)
 
 
 ---
